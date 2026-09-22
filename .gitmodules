@@ -16,3 +16,6 @@
 [submodule "fizzbuzz"]
 	path = fizzbuzz
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/fizzbuzz.git
+[submodule "FizzBuzzWoof-generation"]
+	path = FizzBuzzWoof-generation
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/FizzBuzzWoof-generation.git
