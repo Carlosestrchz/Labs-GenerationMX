@@ -10,3 +10,9 @@
 [submodule "TIFC1-PF-4-2-1---NumbersQuiz_Individual-1.0"]
 	path = TIFC1-PF-4-2-1---NumbersQuiz_Individual-1.0
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/TIFC1-PF-4-2-1---NumbersQuiz_Individual-1.0.git
+[submodule "Calculadora-JS"]
+	path = Calculadora-JS
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/Calculadora-JS.git
+[submodule "fizzbuzz"]
+	path = fizzbuzz
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/fizzbuzz.git
