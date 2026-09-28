@@ -28,3 +28,6 @@
 [submodule "sd-06-1"]
 	path = sd-06-1
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/sd-06-1.git
+[submodule "SD-10-1ModulesLab"]
+	path = SD-10-1ModulesLab
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/SD-10-1ModulesLab.git
