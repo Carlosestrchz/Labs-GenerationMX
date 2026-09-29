@@ -31,3 +31,6 @@
 [submodule "SD-10-1ModulesLab"]
 	path = SD-10-1ModulesLab
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/SD-10-1ModulesLab.git
+[submodule "SD-12-1Assessment-Individual"]
+	path = SD-12-1Assessment-Individual
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/SD-12-1Assessment-Individual.git
