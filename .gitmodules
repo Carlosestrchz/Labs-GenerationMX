@@ -34,3 +34,6 @@
 [submodule "SD-12-1Assessment-Individual"]
 	path = SD-12-1Assessment-Individual
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/SD-12-1Assessment-Individual.git
+[submodule "AD-05-1ABC-Challenge-Group"]
+	path = AD-05-1ABC-Challenge-Group
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-05-1ABC-Challenge-Group.git
