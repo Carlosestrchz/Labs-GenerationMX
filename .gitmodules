@@ -37,3 +37,6 @@
 [submodule "AD-05-1ABC-Challenge-Group"]
 	path = AD-05-1ABC-Challenge-Group
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-05-1ABC-Challenge-Group.git
+[submodule "AD-04-1InteractionwithHTML-Individual"]
+	path = AD-04-1InteractionwithHTML-Individual
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-04-1InteractionwithHTML-Individual.git
