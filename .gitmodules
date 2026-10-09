@@ -40,3 +40,6 @@
 [submodule "AD-04-1InteractionwithHTML-Individual"]
 	path = AD-04-1InteractionwithHTML-Individual
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-04-1InteractionwithHTML-Individual.git
+[submodule "AD-07-1-ElsitiodelBlog-Grupo"]
+	path = AD-07-1-ElsitiodelBlog-Grupo
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-07-1-ElsitiodelBlog-Grupo.git
