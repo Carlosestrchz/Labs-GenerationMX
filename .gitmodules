@@ -46,3 +46,6 @@
 [submodule "AD-02-1-InteractingWithHTML"]
 	path = AD-02-1-InteractingWithHTML
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-02-1-InteractingWithHTML.git
+[submodule "AD-16-1.0"]
+	path = AD-16-1.0
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-16-1.0.git
