@@ -49,3 +49,6 @@
 [submodule "AD-16-1.0"]
 	path = AD-16-1.0
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-16-1.0.git
+[submodule "AD-13-1-LAB_UsodeComponentesBootstrap"]
+	path = AD-13-1-LAB_UsodeComponentesBootstrap
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-13-1-LAB_UsodeComponentesBootstrap.git
