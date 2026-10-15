@@ -52,3 +52,6 @@
 [submodule "AD-13-1-LAB_UsodeComponentesBootstrap"]
 	path = AD-13-1-LAB_UsodeComponentesBootstrap
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-13-1-LAB_UsodeComponentesBootstrap.git
+[submodule "AD-14-1-LAB_Refactorizaci-ndelBlogr"]
+	path = AD-14-1-LAB_Refactorizaci-ndelBlogr
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-14-1-LAB_Refactorizaci-ndelBlogr.git
