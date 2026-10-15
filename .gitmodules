@@ -55,3 +55,6 @@
 [submodule "AD-14-1-LAB_Refactorizaci-ndelBlogr"]
 	path = AD-14-1-LAB_Refactorizaci-ndelBlogr
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/AD-14-1-LAB_Refactorizaci-ndelBlogr.git
+[submodule "TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos"]
+	path = TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos.git
