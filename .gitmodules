@@ -58,3 +58,6 @@
 [submodule "TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos"]
 	path = TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/TIFC2DEV-AD-16-Lab_AD-16_Gestio-ndeEventos.git
+[submodule "MundoAnimal"]
+	path = MundoAnimal
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/MundoAnimal.git
