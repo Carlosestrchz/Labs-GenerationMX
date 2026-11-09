@@ -61,3 +61,6 @@
 [submodule "MundoAnimal"]
 	path = MundoAnimal
 	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/MundoAnimal.git
+[submodule "hackathon2-genmx"]
+	path = hackathon2-genmx
+	url = https://github.com/Labs-de-Generation-Mexico-Java-CH73/hackathon2-genmx.git
